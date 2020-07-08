@@ -1,3 +1,3 @@
 ## About me
 
-I'm a predoc at [Opportunity Insights](https://opportunityinsights.org/){:target="_blank"}.
+I'm a predoc at [Opportunity Insights](https://opportunityinsights.org/).
