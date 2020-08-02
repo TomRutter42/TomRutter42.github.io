@@ -1,6 +1,6 @@
 ## About me
 
-I'm a predoc at OI.
+I'm a predoc at [Opportunity Insights](https://opportunityinsights.org/).
 
 ## Publications
 
