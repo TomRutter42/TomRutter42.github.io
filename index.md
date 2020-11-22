@@ -15,3 +15,5 @@ We examine 220 estimates of the present-bias parameter from 28 articles using th
 with Cassandra Handan-Nader, Daniel E. Ho, and Alison Morantz. _Journal of Experimental Political Science_ (forthcoming)
 
 We analyze the results of a neighbor-to-neighbor, grassroots get-out-the-vote (GOTV) drive in Virginia, in which unpaid volunteers were encouraged to contact at least three nearby registered voters who were likely co-partisans yet relatively unlikely to vote in the 2017 state election. We find that the volunteers in the original program design drove a statistically significant 2.3% increase in turnout, which was concentrated in the first voter pair assigned to each volunteer.
+
+[preprint](https://dho.stanford.edu/wp-content/uploads/The_Effectiveness_of_a_Neighbor_to_Neighbor_Get_Out_the_Vote_Program___Evidence_from_the_2017_Virginia_State_Elections.pdf) | [data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QPRZD4&widget=dataverse@harvard)
