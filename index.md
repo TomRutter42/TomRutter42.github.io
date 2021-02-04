@@ -9,7 +9,7 @@ with Taisuke Imai and Colin F. Camerer. _The Economic Journal_ (forthcoming)
 
 We examine 220 estimates of the present-bias parameter from 28 articles using the Convex Time Budget protocol. The literature shows that people are on average present-biased, but estimates exhibit substantial heterogeneity across studies. There is evidence of modest selective reporting in the direction of overreporting present-bias. The primary source of heterogeneity is the type of reward, either monetary or non-monetary, but this effect is weakened after correcting for selective reporting. In studies using monetary rewards, the delay until the issue of the reward associated with the "current" time period influences estimates of the present-bias parameter.
 
-[preprint](https://osf.io/preprints/metaarxiv/mjvt5/) | [data and code](https://osf.io/wg87v/)
+[journal article](https://academic.oup.com/ej/advance-article/doi/10.1093/ej/ueaa115/5912830) | [preprint](https://osf.io/preprints/metaarxiv/mjvt5/) | [data and code](https://osf.io/wg87v/)
 
 ### The Effectiveness of a Neighbor-to-Neighbor Get-Out-the-Vote Program: Evidence from the 2017 Virginia State Elections
 with Cassandra Handan-Nader, Daniel E. Ho, and Alison Morantz. _Journal of Experimental Political Science_ (forthcoming)
