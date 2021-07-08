@@ -12,7 +12,7 @@ We examine 220 estimates of the present-bias parameter from 28 articles using th
 [journal article](https://academic.oup.com/ej/advance-article/doi/10.1093/ej/ueaa115/5912830) | [preprint](https://osf.io/preprints/metaarxiv/mjvt5/) | [data and code](https://osf.io/wg87v/)
 
 ### The Effectiveness of a Neighbor-to-Neighbor Get-Out-the-Vote Program: Evidence from the 2017 Virginia State Elections
-with Cassandra Handan-Nader, Daniel E. Ho, and Alison Morantz. _Journal of Experimental Political Science_ (forthcoming)
+with Cassandra Handan-Nader, Daniel E. Ho, and Alison Morantz. _Journal of Experimental Political Science_ (2021)
 
 We analyze the results of a neighbor-to-neighbor, grassroots get-out-the-vote (GOTV) drive in Virginia, in which unpaid volunteers were encouraged to contact at least three nearby registered voters who were likely co-partisans yet relatively unlikely to vote in the 2017 state election. We find that the volunteers in the original program design drove a statistically significant 2.3% increase in turnout, which was concentrated in the first voter pair assigned to each volunteer.
 
