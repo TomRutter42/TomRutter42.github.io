@@ -1,6 +1,6 @@
 ## About me
 
-I'm a predoc at [Opportunity Insights](https://opportunityinsights.org/).
+I'm a predoc at [Opportunity Insights](https://opportunityinsights.org/). You can find my google scholar page [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=fXaqzV4AAAAJ). 
 
 ## Publications
 
