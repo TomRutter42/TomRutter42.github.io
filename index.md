@@ -11,7 +11,7 @@ Media Coverage: [Nature](https://www.nature.com/articles/d41586-022-01843-4), [N
 
 [journal article (open access)](https://www.nature.com/articles/s41586-022-04996-4) | [explore the data](https://www.socialcapital.org) | [replication code](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=3978#resource-listing)
 
-### Social capital II: Social capital II: determinants of economic connectedness
+### Social capital II: determinants of economic connectedness
 as part of a large team. _Nature_ (2022)
 
 [journal article (open access)](https://www.nature.com/articles/s41586-022-04997-3) | [explore the data](https://www.socialcapital.org) | [replication code](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=3982#resource-listing)
