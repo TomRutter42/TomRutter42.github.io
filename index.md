@@ -7,7 +7,7 @@ I'm a predoc at [Opportunity Insights](https://opportunityinsights.org/). You ca
 ### Social capital I: measurement and associations with economic mobility
 as part of a large team. _Nature_ (2022)
 
-Media Coverage: [Economist](https://www.economist.com/graphic-detail/2022/08/01/a-new-study-shows-how-much-social-capital-matters), [NPR](https://www.npr.org/sections/money/2022/08/01/1114661467/why-the-american-dream-is-more-attainable-in-some-cities-than-others), [Nature](https://www.nature.com/articles/d41586-022-01843-4), [New York Times](https://www.nytimes.com/interactive/2022/08/01/upshot/rich-poor-friendships.html)
+Media Coverage: [CBS](https://www.cbsnews.com/news/economic-mobility-poor-children-rich-friends-study-raj-chetty/), [Economist](https://www.economist.com/graphic-detail/2022/08/01/a-new-study-shows-how-much-social-capital-matters), [NPR](https://www.npr.org/sections/money/2022/08/01/1114661467/why-the-american-dream-is-more-attainable-in-some-cities-than-others), [Nature](https://www.nature.com/articles/d41586-022-01843-4), [New York Times](https://www.nytimes.com/interactive/2022/08/01/upshot/rich-poor-friendships.html)
 
 [journal article (open access)](https://www.nature.com/articles/s41586-022-04996-4) | [explore the data](https://www.socialcapital.org) | [replication code](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=3978#resource-listing)
 
