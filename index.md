@@ -33,7 +33,7 @@ as part of a large team.
 
 Media Coverage: [NPR](https://www.npr.org/sections/money/2020/10/27/927842540/the-dark-side-of-the-recovery-revealed-in-big-data), [Washington Post 1](https://www.washingtonpost.com/road-to-recovery/2020/08/13/recession-is-over-rich-working-class-is-far-recovered/), [Washington Post 2](https://www.washingtonpost.com/business/2021/01/26/spending-stimulus-checks/), [Washington Post 3](https://www.washingtonpost.com/opinions/democrats-targeted-stimulus-payments-will-still-shower-money-on-those-who-dont-need-it/2021/03/03/3c43582c-7c4c-11eb-b3d1-9e5aa3d5220c_story.html)
 
-[paper](https://tomrutter42.github.io/folder/plus3.pdf) | [real-time tracker](https://tracktherecovery.org/) | [download the data](https://github.com/OpportunityInsights/EconomicTracker)
+[paper](https://tomrutter42.github.io/folder/tracker_paper.pdf) | [real-time tracker](https://tracktherecovery.org/) | [download the data](https://github.com/OpportunityInsights/EconomicTracker)
 
 
 
