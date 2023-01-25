@@ -25,3 +25,13 @@ with Taisuke Imai and Colin F. Camerer. _The Economic Journal_ (2021)
 with Cassandra Handan-Nader, Daniel E. Ho, and Alison Morantz. _Journal of Experimental Political Science_ (2021)
 
 [journal article](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/abs/effectiveness-of-a-neighbortoneighbor-getoutthevote-program-evidence-from-the-2017-virginia-state-elections/85B428BD076E9B90FCA64C490C255F6A) | [preprint](https://tomrutter42.github.io/folder/plus3.pdf) | [data and code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QPRZD4)
+
+## Working Papers 
+
+### The economic impacts of COVID-19: Evidence from a new public database built using private sector data
+as part of a large team.
+
+[paper](https://tomrutter42.github.io/folder/plus3.pdf) | [real-time tracker](https://tracktherecovery.org/) | [download the data](https://github.com/OpportunityInsights/EconomicTracker)
+
+Media Coverage: [NPR](https://www.npr.org/sections/money/2020/10/27/927842540/the-dark-side-of-the-recovery-revealed-in-big-data), [Washington Post 1](https://www.washingtonpost.com/road-to-recovery/2020/08/13/recession-is-over-rich-working-class-is-far-recovered/), [Washington Post 2](https://www.washingtonpost.com/business/2021/01/26/spending-stimulus-checks/), [Washington Post 3](https://www.washingtonpost.com/opinions/democrats-targeted-stimulus-payments-will-still-shower-money-on-those-who-dont-need-it/2021/03/03/3c43582c-7c4c-11eb-b3d1-9e5aa3d5220c_story.html)
+
