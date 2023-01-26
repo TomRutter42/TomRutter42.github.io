@@ -1,6 +1,6 @@
 ## About me
 
-I'm an Economics PhD student at Stanford. You can find my google scholar page [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=fXaqzV4AAAAJ). My email is trutter(at)stanford(dot)edu.
+I'm an Economics PhD student at Stanford. My google scholar page is [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=fXaqzV4AAAAJ). My email is trutter(at)stanford(dot)edu.
 
 ## Publications
 
