@@ -1,15 +1,15 @@
 ## About me
 
-I'm an Economics PhD student at Stanford. My google scholar page is [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=fXaqzV4AAAAJ). My email is trutter (at) stanford [dot] edu.
+I'm an Economics PhD student at Stanford, where I'm supported by a Knight-Hennessy Scholarship. My google scholar page is [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=fXaqzV4AAAAJ). My email is trutter (at) stanford [dot] edu.
 
 ## Publications
 
 ### The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data
-as part of a large team. _The Quaterly Journal of Economics_ (forthcoming)
+as part of a large team. _The Quaterly Journal of Economics_ (2024)
 
 Media Coverage: [NPR](https://www.npr.org/sections/money/2020/10/27/927842540/the-dark-side-of-the-recovery-revealed-in-big-data), [Washington Post 1](https://www.washingtonpost.com/road-to-recovery/2020/08/13/recession-is-over-rich-working-class-is-far-recovered/), [Washington Post 2](https://www.washingtonpost.com/business/2021/01/26/spending-stimulus-checks/), [Washington Post 3](https://www.washingtonpost.com/opinions/democrats-targeted-stimulus-payments-will-still-shower-money-on-those-who-dont-need-it/2021/03/03/3c43582c-7c4c-11eb-b3d1-9e5aa3d5220c_story.html)
 
-[paper](https://tomrutter42.github.io/folder/tracker_paper.pdf) | [real-time tracker](https://tracktherecovery.org/) | [download the data](https://github.com/OpportunityInsights/EconomicTracker)
+[journal article (open access)](https://academic.oup.com/qje/article/139/2/829/7289247) | [real-time tracker](https://tracktherecovery.org/) | [download the data](https://github.com/OpportunityInsights/EconomicTracker)
 
 ### Social Capital I: Measurement and Associations with Economic Mobility
 as part of a large team. _Nature_ (2022)
