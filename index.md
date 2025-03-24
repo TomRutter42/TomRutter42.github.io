@@ -9,7 +9,7 @@ co-first author. (2025)
 
 Media Coverage: [The Guardian](https://www.theguardian.com/society/2025/mar/24/friendships-that-bridge-wealth-divides-help-social-mobility-study-finds), [The Economist](https://www.economist.com/britain/2025/03/24/new-data-show-that-the-class-divide-in-britain-may-not-be-so-wide)
 
-[preprint](https://osf.io/preprints/socarxiv/kb7dy_v1) | [use our social capital metrics](https://data.humdata.org/dataset/uk-social-capital-atlas)
+[preprint](https://osf.io/preprints/socarxiv/kb7dy_v1) | [download our social capital metrics](https://data.humdata.org/dataset/uk-social-capital-atlas)
 
 ## Publications
 
