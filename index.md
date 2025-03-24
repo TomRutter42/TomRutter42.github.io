@@ -2,6 +2,15 @@
 
 I'm an Economics PhD student at Stanford, where I'm supported by a Knight-Hennessy Scholarship. My google scholar page is [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=fXaqzV4AAAAJ). My email is trutter (at) stanford [dot] edu.
 
+## Working Papers 
+
+### Social Capital in the United Kingdom: Evidence from Six Billion Friendships
+co-first author. (2025)
+
+Media Coverage: [The Guardian](https://www.theguardian.com/society/2025/mar/24/friendships-that-bridge-wealth-divides-help-social-mobility-study-finds), [The Economist](https://www.economist.com/britain/2025/03/24/new-data-show-that-the-class-divide-in-britain-may-not-be-so-wide)
+
+[preprint](https://osf.io/preprints/socarxiv/kb7dy_v1) | [use our social capital metrics](https://data.humdata.org/dataset/uk-social-capital-atlas)
+
 ## Publications
 
 ### The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data
