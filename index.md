@@ -5,16 +5,16 @@ I'm an Economics PhD student at Stanford, where I'm supported by a Knight-Hennes
 ## Working Papers 
 
 ### Social Capital in the United Kingdom: Evidence from Six Billion Friendships
-co-first author. (2025)
+as part of a large team, co-first author. (2025)
 
-Media Coverage: [The Guardian](https://www.theguardian.com/society/2025/mar/24/friendships-that-bridge-wealth-divides-help-social-mobility-study-finds), [The Economist](https://www.economist.com/britain/2025/03/24/new-data-show-that-the-class-divide-in-britain-may-not-be-so-wide)
+Media Coverage: [The Economist](https://www.economist.com/britain/2025/03/24/new-data-show-that-the-class-divide-in-britain-may-not-be-so-wide), [The Guardian 1](https://www.theguardian.com/society/2025/mar/24/friendships-that-bridge-wealth-divides-help-social-mobility-study-finds), [The Guardian 2](https://www.theguardian.com/commentisfree/2025/mar/24/the-guardian-view-on-social-networks-the-friendships-that-can-change-your-life), [The Independent](https://www.independent.co.uk/news/uk/home-news/children-england-facebook-south-wales-scottish-b2720232.html), [The Standard](https://www.standard.co.uk/business/money/poorer-children-mixing-with-wealthier-peers-can-lead-to-higher-earnings-b1218363.html), [The Times](https://www.thetimes.com/uk/education/article/poor-pupils-with-richer-friends-will-earn-more-as-adults-study-finds-sjjwsx25x)
 
 [preprint](https://osf.io/preprints/socarxiv/kb7dy_v1) | [download our social capital metrics](https://data.humdata.org/dataset/uk-social-capital-atlas)
 
 ## Publications
 
 ### The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data
-as part of a large team. _The Quaterly Journal of Economics_ (2024)
+as part of a large team. _The Quarterly Journal of Economics_ (2024)
 
 Media Coverage: [NPR](https://www.npr.org/sections/money/2020/10/27/927842540/the-dark-side-of-the-recovery-revealed-in-big-data), [Washington Post 1](https://www.washingtonpost.com/road-to-recovery/2020/08/13/recession-is-over-rich-working-class-is-far-recovered/), [Washington Post 2](https://www.washingtonpost.com/business/2021/01/26/spending-stimulus-checks/), [Washington Post 3](https://www.washingtonpost.com/opinions/democrats-targeted-stimulus-payments-will-still-shower-money-on-those-who-dont-need-it/2021/03/03/3c43582c-7c4c-11eb-b3d1-9e5aa3d5220c_story.html)
 
